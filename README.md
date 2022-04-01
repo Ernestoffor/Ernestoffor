@@ -7,4 +7,5 @@
 - I am currently working on a recommendation engine
 - 💞️ I’m open to a Data Engineer/Data Analyst/Data Science/Machine Learning Engineer role and  collaboration on Data mining and data engineering
 - 📫 How to reach me on twitter: @ErnestOffor
+- Email: ernestoffor@gmail.com
 
