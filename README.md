@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ernest Offor Ugwoke @Ernestoffor
 -  M.Sc. Electrical Engineering, Universität Rostock, B.Eng Electronic Engineering (University of Nigeria)
+-  Artificial Intelligence Engineer and Instructor @ Artificial Intelligence Technologies Limited
 -  ML Engineer @ Omdena
 -  Trained Data Scientist and Data Engineer by Udacity
 - Skills: Python, MySQL, PostgreSQL, Data Science, Apache Cassandra, Apache Spark, Apache Airflow, Apache Kafka,  Data Wrangling, Data Warehouses, PHP, Laravel, Data Lakes, AWS S3, AWS EMR, AWS Redshift, NodeJS, Express,  Docker, Machine Learning, Flask, Jinja2, Tableau, pandas, NLP
